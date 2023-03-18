@@ -1,0 +1,1 @@
+{"mime":"text/plain","filter":false,"title":"10.2PreproInsulin-seq-clean.txt","tooltip":"/10.2PreproInsulin-seq-clean.txt","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1678307129334,"hash":"85bbfcdbb313f18c14f92755dcf08b2fd7235ff2"}

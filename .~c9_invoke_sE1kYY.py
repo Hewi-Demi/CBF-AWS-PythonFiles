@@ -1,0 +1,1 @@
+myMixedTypeList= [45, 290578, 1..02, True, "My do"]

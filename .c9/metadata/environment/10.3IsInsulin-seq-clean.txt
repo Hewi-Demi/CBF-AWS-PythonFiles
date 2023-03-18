@@ -1,0 +1,1 @@
+{"mime":"text/plain","filter":false,"title":"10.3IsInsulin-seq-clean.txt","tooltip":"/10.3IsInsulin-seq-clean.txt","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1678306574764,"hash":"e5112084e904afa72fbbc2422bec05f0060250e4"}
